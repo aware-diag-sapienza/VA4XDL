@@ -4,20 +4,17 @@ _Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santuc
 
 https://doi.org/xxx/yyy
 
----
-
-## Interactive Literature Explorer
-This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](./survis).
-
----
-
 ## Abstract
 
 The usage and research of machine-learning-based solutions to solve problems or reduce their computational costs are becoming increasingly widespread in many domains. **Deep Learning** plays a big part in this growth. However, it comes with the drawbacks of a lack of explainability and behaving as a black-box model. During the last few years, **Visual Analytics** provided several proposals to cope with these drawbacks, supporting the emerging **eXplainable Deep Learning** field. 
 
 This survey aims at (i) systematically reporting the contributions of **Visual Analytics for eXplainable Deep Learning**, (ii) spotting gaps and challenges, (iii) serving as an anthology of visual analytical solutions ready to be exploited and put into operation by the Deep Learning community (architects, trainers, end-users), and (iv) evidencing the degree of maturity, easiness of integration, and results to specific domains. The survey concludes by identifying future research challenges and bridging activities helpful to better establish Visual Analytics as a discipline for eXplainable Deep Learning.
 
-### Citation
+## Interactive Literature Explorer
+This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](./survis).
+
+
+## Citation
  ```
 @article{LaRosa2023_VA4XDL,
     author = {La Rosa, Biagio and Blasilli, Graziano and Bourqui, Romain and Auber, David and Santucci, Giuseppe and Capobianco, Roberto and Bertini, Enrico and Giot, Romain and Angelini, Marco},
