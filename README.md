@@ -14,7 +14,7 @@ This survey aims at (i) systematically reporting the contributions of **Visual A
 This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](https://aware-diag-sapienza.github.io/VA4XDL/survis).
 
 <p align="center"">
-    <a href="Interactive Literature Explorer">
+    <a href="https://aware-diag-sapienza.github.io/VA4XDL/survis">
         <img alt="Interactive Literature Explorer" src="https://aware-diag-sapienza.github.io/VA4XDL/survis/screenshot.png" width="600">
     </a>
 </p>
