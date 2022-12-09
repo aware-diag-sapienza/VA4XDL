@@ -6,7 +6,12 @@ https://doi.org/xxx/yyy
 
 ---
 
-### Abstract
+## Interactive Literature Explorer
+This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](./survis).
+
+---
+
+## Abstract
 
 The usage and research of machine-learning-based solutions to solve problems or reduce their computational costs are becoming increasingly widespread in many domains. **Deep Learning** plays a big part in this growth. However, it comes with the drawbacks of a lack of explainability and behaving as a black-box model. During the last few years, **Visual Analytics** provided several proposals to cope with these drawbacks, supporting the emerging **eXplainable Deep Learning** field. 
 
@@ -24,7 +29,4 @@ This survey aims at (i) systematically reporting the contributions of **Visual A
 }
 ```
 
----
 
-## Interactive Literature Explorer
-This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](./survis).
