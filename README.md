@@ -10,7 +10,7 @@ The usage and research of machine-learning-based solutions to solve problems or 
 This survey aims at (i) systematically reporting the contributions of **Visual Analytics for eXplainable Deep Learning**, (ii) spotting gaps and challenges, (iii) serving as an anthology of visual analytical solutions ready to be exploited and put into operation by the Deep Learning community (architects, trainers, end-users), and (iv) evidencing the degree of maturity, easiness of integration, and results to specific domains. The survey concludes by identifying future research challenges and bridging activities helpful to better establish Visual Analytics as a discipline for eXplainable Deep Learning.
 
 ## Interactive Literature Explorer
-This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](./survis).
+This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](./survis){:target="_blank"}.
 
 
 ## Citation
