@@ -1,8 +1,7 @@
 # The State of The Art of Visual Analytics for eXplainable Deep Learning
 
-_Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini._
+> The State of The Art of Visual Analytics for eXplainable Deep Learning. _Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini._ Computer Graphics Forum, 2023. [https://doi.org/xxx/yyy](https://doi.org/xxx/yyy)
 
-https://doi.org/xxx/yyy
 
 ## Abstract
 
