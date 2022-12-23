@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'The State of The Art of Visual Analytics for eXplainable Deep Learning';
+var title = 'State of the Art of Visual Analytics for eXplainable Deep Learning';
 
 /**
  * Relative path to the data directory
