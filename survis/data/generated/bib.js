@@ -106,7 +106,7 @@
         "year": "2021"
     },
     "Das2020": {
-        "author": "Nilaksh Das and Haekyu Park and Zijie J. Wang and Fred Hohman and Robert Firstman and Emily Rogers and Duen Horng Polo Chau",
+        "author": "Nilaksh Das and Haekyu Park and Zijie J. Wang and Fred Hohman and Robert Firstman and Emily Rogers and Duen Horng Chau",
         "booktitle": "2020 {IEEE} Visualization Conference ({VIS})",
         "doi": "10.1109/vis47514.2020.00061",
         "keywords": "xdl_category:Learned Features, application_domain:Domain agnostic, model:CNN, users:ML Architects, interactivity:passive, phase:test, source_code:yes, evaluation:USc, visualizations:Node-Link, visualizations:Line/Area, visualizations:Image, visualizations:Sankey, analytics_family:Activation Maximization, analytics_subject:Input, analytics_novelty:Custom",
@@ -218,7 +218,7 @@
         "year": "2017"
     },
     "Hohman2020": {
-        "author": "Fred Hohman and Haekyu Park and Caleb Robinson and Duen Horng Polo Chau",
+        "author": "Fred Hohman and Haekyu Park and Caleb Robinson and Duen Horng Chau",
         "doi": "10.1109/tvcg.2019.2934659",
         "journal": "{IEEE} Transactions on Visualization and Computer Graphics",
         "keywords": "xdl_category:Learned Features, application_domain:Domain agnostic, model:CNN, users:ML Architects, interactivity:passive, phase:test, source_code:no, evaluation:USc, visualizations:Node-Link, visualizations:Bar, visualizations:Image, visualizations:Scatter, visualizations:Sankey, analytics_family:Aggregation/Summarization, analytics_subject:Neurons, analytics_novelty:Novel",
@@ -561,7 +561,7 @@
         "year": "2021"
     },
     "Park2022": {
-        "author": "Haekyu Park and Nilaksh Das and Rahul Duggal and Austin P. Wright and Omar Shaikh and Fred Hohman and Duen Horng Polo Chau",
+        "author": "Haekyu Park and Nilaksh Das and Rahul Duggal and Austin P. Wright and Omar Shaikh and Fred Hohman and Duen Horng Chau",
         "doi": "10.1109/tvcg.2021.3114858",
         "journal": "{IEEE} Transactions on Visualization and Computer Graphics",
         "keywords": "xdl_category:Learned Features, application_domain:Domain agnostic, model:CNN, users:ML Trainers, interactivity:passive, phase:test, source_code:yes, evaluation:Q-USt, evaluation:USc, visualizations:Heatmap, visualizations:Node-Link, visualizations:Image, visualizations:Scatter, visualizations:Sankey, analytics_family:Similarity Analysis, analytics_subject:Neurons, analytics_novelty:Novel",
@@ -869,7 +869,7 @@
         "year": "2019"
     },
     "Wright2021": {
-        "author": "Austin P. Wright and Omar Shaikh and Haekyu Park and Will Epperson and Muhammed Ahmed and Stephane Pinel and Duen Horng (Polo) Chau and Diyi Yang",
+        "author": "Austin P. Wright and Omar Shaikh and Haekyu Park and Will Epperson and Muhammed Ahmed and Stephane Pinel and Duen Horng Chau and Diyi Yang",
         "doi": "10.1145/3449280",
         "journal": "Proceedings of the {ACM} on Human-Computer Interaction",
         "keywords": "xdl_category:Feature Attribution, xdl_category:Counterfactuals, application_domain:Linguistics, model:Transformers, users:End-Users, interactivity:input, phase:test, source_code:no, evaluation:F-USt, visualizations:Words, analytics_family:Search/Mining, analytics_subject:Words, analytics_novelty:Custom",
