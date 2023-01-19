@@ -55,7 +55,7 @@ var editable = false;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini.<br>Literature collection. <b><a href="https://doi.org/xxx/yyy" target="_blank">https://doi.org/xxx/yyy</a></b>',
+    html: 'Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini.<br>Literature collection. <b><a href="https://doi.org/10.1111/cgf.14733" target="_blank">https://doi.org/10.1111/cgf.14733</a></b>',
 };
 
 /**
