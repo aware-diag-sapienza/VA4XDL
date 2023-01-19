@@ -46,7 +46,7 @@
     },
     "Chae2017": {
         "abstractnote": "Recently, the techniques based on Deep Neural Networks (DNNs) have achieved a great performance in classification tasks in a wide range of applications, such as image recognition and natural language processing. However, DNN developers face a lot of trial and error during the development process and spend their efforts in debugging their network model through analyzing and understanding the classification results. As such, tools are needed that help the developers not only understand the results, but also suggest the ways to improve their model. In this paper, we propose a visual analytics tool for visualizing the classification results during the iterative development pipeline of a DNN model. Our tool enables exploring the classification results from any type of neural network models, identifying misclassified samples, examining the predicted score distributions of samples, and showing how the outcomes progressively change during the training process.",
-        "author": "Chae, Junghoon and Gao, Shang and Ramanathan, Arvind and Steed, Chad A. and Tourassi, Georgia",
+        "author": "Junghoon Chae and Shang Gao and Ramanathan Arvind and Chad A. Steed and Georgia Tourassi",
         "institution": "Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States)",
         "keywords": "xdl_category:Feature Attribution, application_domain:Domain agnostic, model:RNN, users:ML Architects, interactivity:passive, phase:train, source_code:no, evaluation:USc, visualizations:Line/Area, visualizations:Bar, visualizations:Words, visualizations:PCP, analytics_family:Clustering, analytics_subject:Sentences, analytics_subject:Words, analytics_novelty:Classic",
         "month": "October",
@@ -262,7 +262,7 @@
         "year": "2021"
     },
     "Jaunet2020": {
-        "author": "Jaunet, T. and Vuillemot, R. and Wolf, C.",
+        "author": "Th\u00e9o Jaunet and Romain Vuillemot and Christian Wolf",
         "doi": "10.1111/cgf.13962",
         "journal": "Computer Graphics Forum",
         "keywords": "xdl_category:Feature Attribution, xdl_category:Model Behavior, application_domain:Game agent, model:DRL, users:ML Architects, interactivity:passive, phase:test, source_code:yes, evaluation:F-USt, visualizations:Heatmap, visualizations:Line/Area, visualizations:Image, visualizations:Scatter, visualizations:Table, analytics_family:Similarity Analysis, analytics_family:Statistical Analysis, analytics_subject:Internals, analytics_novelty:Classic",
@@ -278,7 +278,7 @@
         "year": "2020"
     },
     "Jaunet2021": {
-        "author": "Jaunet, Th\u00e9o and Kervadec, Corentin and Vuillemot, Romain and Antipov, Grigory and Baccouche, Moez and Wolf, Christian",
+        "author": "Th\u00e9o Jaunet and Corentin Kervadec and Romain Vuillemot and Grigory Antipov and Moez Baccouche and Christian Wolf",
         "doi": "10.1109/tvcg.2021.3114683",
         "journal": "{IEEE} Transactions on Visualization and Computer Graphics",
         "keywords": "xdl_category:Feature Attribution, application_domain:Domain agnostic, model:Transformers, users:ML Architects, interactivity:input, interactivity:model, phase:test, source_code:no, evaluation:Q-USt, evaluation:F-CSt, visualizations:Heatmap, visualizations:Node-Link, visualizations:Image, visualizations:Matrix, analytics_family:What-if Analysis, analytics_subject:Attention Heads, analytics_novelty:Custom",
@@ -549,7 +549,7 @@
         "year": "2019"
     },
     "Park2021": {
-        "author": "Park, Cheonbok and Yang, Soyoung and Na, Inyoup and Chung, Sunghyo and Shin, Sungbok and Kwon, Bum Chul and Park, Deokgun and Choo, Jaegul",
+        "author": "Cheonbok Park and Soyoung Yang and Inyoup Na and Sunghyo Chung and Sungbok Shin and Bum Chul Kwon and Deokgun Park and Jaegul Choo",
         "doi": "10.2312/EVS.20211047",
         "journal": "EuroVis 2021 - Short Papers",
         "keywords": "xdl_category:Feature Attribution, xdl_category:Model Behavior, application_domain:Domain agnostic, model:CNN, users:ML Trainers, interactivity:input, phase:test, source_code:yes, evaluation:USc, visualizations:Heatmap, visualizations:Line/Area, visualizations:Image, visualizations:Scatter, analytics_family:Feature Influence, analytics_subject:Input, analytics_novelty:Classic",
@@ -621,7 +621,7 @@
     },
     "Skrlj2021": {
         "address": "Online",
-        "author": "{\\v{S}}krlj, Bla{\\v{z}} and Sheehan, Shane and Er{\\v{z}}en, Nika and Robnik-{\\v{S}}ikonja, Marko and Luz, Saturnino and Pollak, Senja",
+        "author": "Bla{\\v{z}} {\\v{S}}krlj and Shane Sheehan and Nika Er{\\v{z}}en and Marko Robnik-{\\v{S}}ikonja and Saturnino Luz and Senja Pollak",
         "booktitle": "Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation",
         "keywords": "xdl_category:Feature Attribution, application_domain:Domain agnostic, model:Transformers, users:ML Trainers, interactivity:passive, phase:test, source_code:yes, evaluation:USc, visualizations:Line/Area, visualizations:Scatter, visualizations:Words, analytics_family:Clustering, analytics_subject:Words, analytics_novelty:Custom",
         "month": "April",
@@ -648,7 +648,7 @@
         "year": "2019"
     },
     "Strezoski2017": {
-        "author": "Strezoski, Gjorgji and Worring, Marcel",
+        "author": "Gjorgji Strezoski and Marcel Worring",
         "journal": "VADL: Visual Analytics for Deep Learning",
         "keywords": "xdl_category:Feature Attribution, xdl_category:Learned Features, application_domain:Domain agnostic, model:CNN, users:ML Trainers, interactivity:passive, phase:test, source_code:no, evaluation:USc, visualizations:Heatmap, visualizations:Image, analytics_family:Activation Maximization, analytics_subject:Input, analytics_subject:Activations, analytics_novelty:Custom",
         "pages": "0100--0106",
@@ -691,7 +691,7 @@
         "year": "2019"
     },
     "VanDenBrandt2020": {
-        "author": "van den Brandt, Astrid and Christopher, Mark and Rezapour, Jasmin and Welsbie, Derek S and Camp, Andrew S and Baxter, Sally L and Do, Jiun and Moghimi, Sasan and Belghith, Akram and Bowd, Christopher and others",
+        "author": "Astrid van den Brandt and Mark Christopher and Jasmin Rezapour and Derek S Welsbie and Andrew S Camp and Sally L Baxter and Jiun Do and Sasan Moghimi and Akram Belghith and Christopher Bowd",
         "journal": "Investigative Ophthalmology \\& Visual Science",
         "keywords": "xdl_category:Feature Attribution, application_domain:Medical, model:CNN, users:End-Users, interactivity:passive, phase:test, source_code:no, evaluation:Q-USt, evaluation:F-USt, evaluation:F-CSt, visualizations:Heatmap, visualizations:Line/Area, visualizations:Image, analytics_family:Saliency Analysis, analytics_subject:Image, analytics_novelty:Classic",
         "number": "7",
@@ -705,7 +705,7 @@
         "year": "2020"
     },
     "Vig2019": {
-        "author": "Vig, Jesse",
+        "author": "Jesse Vig",
         "booktitle": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations",
         "doi": "10.18653/v1/p19-3007",
         "keywords": "xdl_category:Feature Attribution, application_domain:Domain agnostic, model:Transformers, users:ML Trainers, interactivity:input, phase:test, source_code:yes, evaluation:USc, visualizations:Heatmap, visualizations:Node-Link, visualizations:Words, analytics_family:Pattern Analysis, analytics_subject:Attention Heads, analytics_novelty:Classic",
@@ -734,7 +734,7 @@
         "year": "2018"
     },
     "Wang2018rnn": {
-        "author": "Wang, Chuan and Onishi, Takeshi and Nemoto, Keiichi and Ma, Kwan-Liu",
+        "author": "Chuan Wang and Takeshi Onishi and Keiichi Nemoto and Kwan-Liu Ma",
         "booktitle": "2018 {IEEE} International Conference on Big Data (Big Data)",
         "doi": "10.1109/bigdata.2018.8622502",
         "keywords": "xdl_category:Feature Attribution, application_domain:Domain agnostic, model:RNN, users:ML Trainers, interactivity:passive, phase:train, source_code:yes, evaluation:CSt, visualizations:Heatmap, visualizations:Node-Link, visualizations:Line/Area, visualizations:Table, visualizations:Matrix, analytics_family:Saliency Analysis, analytics_subject:Input, analytics_novelty:Classic",
@@ -810,7 +810,7 @@
     },
     "Wang2021dodrio": {
         "address": "Online",
-        "author": "Wang, Zijie J. and Turko, Robert and Chau, Duen Horng",
+        "author": "Zijie J. Wang and Robert Turko and Duen Horng Chau",
         "booktitle": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations",
         "doi": "10.18653/v1/2021.acl-demo.16",
         "keywords": "xdl_category:Feature Attribution, application_domain:Domain agnostic, model:Transformers, users:ML Trainers, interactivity:passive, phase:test, source_code:yes, evaluation:USc, visualizations:Node-Link, visualizations:Words, visualizations:Table, visualizations:Radial, analytics_family:Similarity Analysis, analytics_family:Semantic Analysis, analytics_subject:Words, analytics_novelty:Novel",
@@ -899,7 +899,7 @@
         "year": "2015"
     },
     "Zahavy2016": {
-        "author": "Zahavy, Tom and Zrihem, Nir Ben and Mannor, Shie",
+        "author": "Tom Zahavy and Nir Ben Zrihem and Shie Mannor",
         "booktitle": "Proceedings of the 33rd International Conference on International Conference on Machine Learning - Volume 48",
         "keywords": "xdl_category:Feature Attribution, xdl_category:Model Behavior, application_domain:Game agent, model:DRL, users:ML Architects, interactivity:passive, phase:test, source_code:no, evaluation:CSt, visualizations:Heatmap, visualizations:Image, visualizations:Scatter, analytics_family:Similarity Analysis, analytics_family:Activation Maximization, analytics_subject:Image, analytics_novelty:Classic",
         "location": "New York, NY, USA",
@@ -941,7 +941,7 @@
         "year": "2020"
     },
     "Zhong2017": {
-        "author": "Zhong, Wen and Xie, Cong and Zhong, Yuan and Wang, Yang and Xu, Wei and Cheng, Shenghui and Mueller, Klaus",
+        "author": "Wen Zhong and Cong Xie and Yuan Zhong and Yang Wang and Wei Xu and Shenghui Cheng and Klaus Mueller",
         "booktitle": "ICML Workshop on Visualization for Deep Learning",
         "keywords": "xdl_category:Learned Features, application_domain:Domain agnostic, model:CNN, users:ML Architects, interactivity:passive, phase:train, source_code:no, evaluation:USc, visualizations:Heatmap, visualizations:Line/Area, visualizations:Image, visualizations:Scatter, analytics_family:Feature Influence, analytics_family:Clustering, analytics_subject:Neurons, analytics_novelty:Novel",
         "pages": "9",
