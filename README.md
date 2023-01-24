@@ -11,7 +11,9 @@ This survey aims to _(i)_ systematically report the contributions of Visual Anal
 ## Citation
  ```
 @article{LaRosa2023_VA4XDL,
-    author = {La Rosa, Biagio and Blasilli, Graziano and Bourqui, Romain and Auber, David and Santucci, Giuseppe and Capobianco, Roberto and Bertini, Enrico and Giot, Romain and Angelini, Marco},
+    author = {La Rosa, Biagio and Blasilli, Graziano and Bourqui, Romain and Auber, David
+              and Santucci, Giuseppe and Capobianco, Roberto and Bertini, Enrico 
+              and Giot, Romain and Angelini, Marco},
     title = {State of the Art of Visual Analytics for eXplainable Deep Learning},
     journal = {Computer Graphics Forum},
     volume = {n/a},
