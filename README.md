@@ -4,6 +4,8 @@
 Computer Graphics Forum, 2023.
 [https://doi.org/10.1111/cgf.14733](https://doi.org/10.1111/cgf.14733)
 
+## Open Access Paper
+The paper is available at [https://doi.org/10.1111/cgf.14733](https://doi.org/10.1111/cgf.14733).
 
 ## Abstract
 The use and creation of machine-learning-based solutions to solve problems or reduce their computational costs are becoming increasingly widespread in many domains. **Deep Learning** plays a large part in this growth. However, it has drawbacks such as a lack of explainability and behaving as a black-box model. During the last few years, **Visual Analytics** has provided several proposals to cope with these drawbacks, supporting the emerging **eXplainable Deep Learning** field. 
@@ -19,7 +21,7 @@ This survey aims to _(i)_ systematically report the contributions of Visual Anal
     volume = {n/a},
     number = {n/a},
     year = {2023},
-    doi = {https://doi.org/10.1111/cgf.14733}
+    doi = {10.1111/cgf.14733}
 }
 ```
 
