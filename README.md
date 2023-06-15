@@ -18,8 +18,8 @@ This survey aims to _(i)_ systematically report the contributions of Visual Anal
               and Giot, Romain and Angelini, Marco},
     title = {State of the Art of Visual Analytics for eXplainable Deep Learning},
     journal = {Computer Graphics Forum},
-    volume = {n/a},
-    number = {n/a},
+    volume = {42},
+    number = {1},
     year = {2023},
     doi = {10.1111/cgf.14733}
 }
@@ -27,7 +27,7 @@ This survey aims to _(i)_ systematically report the contributions of Visual Anal
 
 ## Interactive Literature Explorer
 
-This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](https://aware-diag-sapienza.github.io/VA4XDL/survis).
+This survey collected and categorized a set of 67 papers that propose Visual Analytics solutions for eXplainable Deep Learning. The complete categorization is explorable through **SurVis**, a web-based interactive explorer, at [this link](https://aware-diag-sapienza.github.io/VA4XDL/survis) or clicking on the following figure.
 
 <p align="center">
     <a href="https://aware-diag-sapienza.github.io/VA4XDL/survis">
@@ -35,6 +35,8 @@ This survey collected and categorized a set of 67 papers that propose Visual Ana
     </a>
 </p>
 
+## Missing Papers
+If you have found missing papers in our literature collection, please let us know filling **[this form](https://docs.google.com/forms/d/e/1FAIpQLScu_ZB1BNg6prLxnpCDmeZJwBtbhRuANJ16_1Ak8GLQ8xuw_g/viewform?usp=sf_link)**.
 
 
 
